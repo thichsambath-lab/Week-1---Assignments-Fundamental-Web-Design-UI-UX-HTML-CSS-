@@ -1,0 +1,16 @@
+<!--action.html to cinema.html-->
+<a href="../cinema.html">
+<!--home.html to songs.html-->
+<a href="./music/songs.html">
+<!--help.html to action.html-->
+<a href="./movies/action_movies/action.html">
+<!--from cinema.html to help.html-->
+<a href="../help.html">
+<!--from action.html to home.html-->
+<a href="../../home.html">
+<!--from cinema.html to action.html-->
+<a href="./action_movies/action.html">
+<!--from songs.hmtl to action.html-->
+<a href="../movies/action_movies/action.html">
+<!--from action.html to songs.html-->
+<a href="../../music/songs.html">
